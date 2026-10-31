@@ -1,0 +1,14 @@
+﻿# Java compiled output
+*.class
+
+# Local ReqForge data
+requirements.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
